@@ -1,0 +1,13 @@
+.botao:hover {
+	-fx-background-color: #1E90FF;
+	-fx-text-fill: white;
+	-fx-cursor: hand;
+}
+
+.combobox:hover {
+	-fx-cursor: hand;
+}
+
+.combobox {
+	-fx-font: 15px tahoma;
+}
